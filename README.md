@@ -1,4 +1,8 @@
-### Hi there 👋
+## Profile 👋 
+
+[Playdev's Portfolio](https://github.com/csy1204/Portfolio)
+
+
 
 <!--
 **csy1204/csy1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
