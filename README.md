@@ -1,6 +1,6 @@
-### Profile 💻
+### Profile
 
-## ✅ [Playdev's Portfolio](https://bit.ly/3jlFdoc)
+## 💻 [Playdev's Portfolio](https://bit.ly/3jlFdoc)
 
 
 
