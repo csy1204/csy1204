@@ -1,10 +1,13 @@
-## 💻 [Playdev's Portfolio](https://bit.ly/3jlFdoc)
+## 💻 Playdev's Profile
+
+
+> [[Portfolio]](https://bit.ly/3jlFdoc)
+
 
 - Software Engineer
 - Contact: play1204dev@gmail.com
 - PL: Python, Javascript (Typescript), C
 - Web Fullstack, Deep Learning, Data Analysis
-
 
 <!--
 **csy1204/csy1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
