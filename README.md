@@ -1,7 +1,9 @@
-### Profile
-
 ## 💻 [Playdev's Portfolio](https://bit.ly/3jlFdoc)
 
+- Software Engineer
+- Contact: play1204dev@gmail.com
+- PL: Python, Javascript (Typescript), C
+- Web Fullstack, Deep Learning, Data Analysis
 
 
 <!--
