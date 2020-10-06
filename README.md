@@ -1,7 +1,7 @@
 ## 💻 Playdev's Profile
 
 
-> **[[Portfolio]](https://bit.ly/3jlFdoc)**
+> **[[📃 Portfolio]](https://bit.ly/3jlFdoc)**
 
 
 - Software Engineer
